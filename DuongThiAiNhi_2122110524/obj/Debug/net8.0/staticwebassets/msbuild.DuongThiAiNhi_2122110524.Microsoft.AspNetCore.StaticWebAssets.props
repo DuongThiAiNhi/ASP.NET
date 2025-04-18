@@ -1,0 +1,184 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\avatars\10b821a8-8979-4761-a223-a4c089b43deb_Screenshot 2025-04-09 135102.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DuongThiAiNhi_2122110524</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DuongThiAiNhi_2122110524</BasePath>
+      <RelativePath>uploads/avatars/10b821a8-8979-4761-a223-a4c089b43deb_Screenshot 2025-04-09 135102.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>cwo4asyzvb</Fingerprint>
+      <Integrity>9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\avatars\10b821a8-8979-4761-a223-a4c089b43deb_Screenshot 2025-04-09 135102.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\avatars\39105d5a-4159-4c12-807e-b2682f5b1aa3_Screenshot 2025-04-09 135102.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DuongThiAiNhi_2122110524</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DuongThiAiNhi_2122110524</BasePath>
+      <RelativePath>uploads/avatars/39105d5a-4159-4c12-807e-b2682f5b1aa3_Screenshot 2025-04-09 135102.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>cwo4asyzvb</Fingerprint>
+      <Integrity>9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\avatars\39105d5a-4159-4c12-807e-b2682f5b1aa3_Screenshot 2025-04-09 135102.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\avatars\48253823-478d-4e49-8618-d802a2a75ccc_Screenshot 2025-04-09 135102.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DuongThiAiNhi_2122110524</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DuongThiAiNhi_2122110524</BasePath>
+      <RelativePath>uploads/avatars/48253823-478d-4e49-8618-d802a2a75ccc_Screenshot 2025-04-09 135102.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>cwo4asyzvb</Fingerprint>
+      <Integrity>9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\avatars\48253823-478d-4e49-8618-d802a2a75ccc_Screenshot 2025-04-09 135102.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\avatars\68f56421-7364-4f44-b568-c6ebf01fa9f3_iphone3.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DuongThiAiNhi_2122110524</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DuongThiAiNhi_2122110524</BasePath>
+      <RelativePath>uploads/avatars/68f56421-7364-4f44-b568-c6ebf01fa9f3_iphone3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>03yoqgtfpk</Fingerprint>
+      <Integrity>dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\avatars\68f56421-7364-4f44-b568-c6ebf01fa9f3_iphone3.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\avatars\88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DuongThiAiNhi_2122110524</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DuongThiAiNhi_2122110524</BasePath>
+      <RelativePath>uploads/avatars/88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vh7o83m62o</Fingerprint>
+      <Integrity>DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\avatars\88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\avatars\ed71e770-23ae-4b34-8712-d530919d0b25_iphone3.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DuongThiAiNhi_2122110524</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DuongThiAiNhi_2122110524</BasePath>
+      <RelativePath>uploads/avatars/ed71e770-23ae-4b34-8712-d530919d0b25_iphone3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>03yoqgtfpk</Fingerprint>
+      <Integrity>dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\avatars\ed71e770-23ae-4b34-8712-d530919d0b25_iphone3.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DuongThiAiNhi_2122110524</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DuongThiAiNhi_2122110524</BasePath>
+      <RelativePath>uploads/categories/6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>2bs9doqdan</Fingerprint>
+      <Integrity>jmRaAZmcYz0r/8uj7UbzriWDtHlxRDmmWy3v4Ix+07s=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\e8b50c0f-38bb-43b0-adc1-610b8e9d73a1_iphone3.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DuongThiAiNhi_2122110524</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DuongThiAiNhi_2122110524</BasePath>
+      <RelativePath>uploads/categories/e8b50c0f-38bb-43b0-adc1-610b8e9d73a1_iphone3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>03yoqgtfpk</Fingerprint>
+      <Integrity>dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\e8b50c0f-38bb-43b0-adc1-610b8e9d73a1_iphone3.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\5206c0a8-db52-45ac-a81b-c7bb4355308d_iphone4.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DuongThiAiNhi_2122110524</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DuongThiAiNhi_2122110524</BasePath>
+      <RelativePath>uploads/products/5206c0a8-db52-45ac-a81b-c7bb4355308d_iphone4.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>u9yk3p7igm</Fingerprint>
+      <Integrity>fj4Ilu3q+YqQxsvx8NCP+nUuGUMo9xtspcipLoLu5yM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\5206c0a8-db52-45ac-a81b-c7bb4355308d_iphone4.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DuongThiAiNhi_2122110524</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DuongThiAiNhi_2122110524</BasePath>
+      <RelativePath>uploads/products/ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vh7o83m62o</Fingerprint>
+      <Integrity>DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

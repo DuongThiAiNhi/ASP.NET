@@ -1,12 +1,1052 @@
 {
   "Version": 1,
-  "Hash": "b/GXLBX76ICyUO7K2HT+W3m8A9CXpwOijeBgJ8dY+yE=",
+  "Hash": "FdQHXXyGBQq0GxGas3GLH0zE2j4De1VuDR8fY2ANs04=",
   "Source": "DuongThiAiNhi_2122110524",
   "BasePath": "_content/DuongThiAiNhi_2122110524",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "DuongThiAiNhi_2122110524\\wwwroot",
+      "Source": "DuongThiAiNhi_2122110524",
+      "ContentRoot": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\",
+      "BasePath": "_content/DuongThiAiNhi_2122110524",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\10b821a8-8979-4761-a223-a4c089b43deb_Screenshot 2025-04-09 135102.png",
+      "SourceId": "DuongThiAiNhi_2122110524",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\",
+      "BasePath": "_content/DuongThiAiNhi_2122110524",
+      "RelativePath": "uploads/avatars/10b821a8-8979-4761-a223-a4c089b43deb_Screenshot 2025-04-09 135102#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cwo4asyzvb",
+      "Integrity": "9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\avatars\\10b821a8-8979-4761-a223-a4c089b43deb_Screenshot 2025-04-09 135102.png"
+    },
+    {
+      "Identity": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\39105d5a-4159-4c12-807e-b2682f5b1aa3_Screenshot 2025-04-09 135102.png",
+      "SourceId": "DuongThiAiNhi_2122110524",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\",
+      "BasePath": "_content/DuongThiAiNhi_2122110524",
+      "RelativePath": "uploads/avatars/39105d5a-4159-4c12-807e-b2682f5b1aa3_Screenshot 2025-04-09 135102#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cwo4asyzvb",
+      "Integrity": "9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\avatars\\39105d5a-4159-4c12-807e-b2682f5b1aa3_Screenshot 2025-04-09 135102.png"
+    },
+    {
+      "Identity": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\48253823-478d-4e49-8618-d802a2a75ccc_Screenshot 2025-04-09 135102.png",
+      "SourceId": "DuongThiAiNhi_2122110524",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\",
+      "BasePath": "_content/DuongThiAiNhi_2122110524",
+      "RelativePath": "uploads/avatars/48253823-478d-4e49-8618-d802a2a75ccc_Screenshot 2025-04-09 135102#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cwo4asyzvb",
+      "Integrity": "9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\avatars\\48253823-478d-4e49-8618-d802a2a75ccc_Screenshot 2025-04-09 135102.png"
+    },
+    {
+      "Identity": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\68f56421-7364-4f44-b568-c6ebf01fa9f3_iphone3.jpg",
+      "SourceId": "DuongThiAiNhi_2122110524",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\",
+      "BasePath": "_content/DuongThiAiNhi_2122110524",
+      "RelativePath": "uploads/avatars/68f56421-7364-4f44-b568-c6ebf01fa9f3_iphone3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "03yoqgtfpk",
+      "Integrity": "dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\avatars\\68f56421-7364-4f44-b568-c6ebf01fa9f3_iphone3.jpg"
+    },
+    {
+      "Identity": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939.png",
+      "SourceId": "DuongThiAiNhi_2122110524",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\",
+      "BasePath": "_content/DuongThiAiNhi_2122110524",
+      "RelativePath": "uploads/avatars/88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vh7o83m62o",
+      "Integrity": "DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\avatars\\88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939.png"
+    },
+    {
+      "Identity": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\ed71e770-23ae-4b34-8712-d530919d0b25_iphone3.jpg",
+      "SourceId": "DuongThiAiNhi_2122110524",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\",
+      "BasePath": "_content/DuongThiAiNhi_2122110524",
+      "RelativePath": "uploads/avatars/ed71e770-23ae-4b34-8712-d530919d0b25_iphone3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "03yoqgtfpk",
+      "Integrity": "dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\avatars\\ed71e770-23ae-4b34-8712-d530919d0b25_iphone3.jpg"
+    },
+    {
+      "Identity": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\categories\\6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.png",
+      "SourceId": "DuongThiAiNhi_2122110524",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\",
+      "BasePath": "_content/DuongThiAiNhi_2122110524",
+      "RelativePath": "uploads/categories/6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2bs9doqdan",
+      "Integrity": "jmRaAZmcYz0r/8uj7UbzriWDtHlxRDmmWy3v4Ix+07s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\categories\\6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.png"
+    },
+    {
+      "Identity": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\categories\\e8b50c0f-38bb-43b0-adc1-610b8e9d73a1_iphone3.jpg",
+      "SourceId": "DuongThiAiNhi_2122110524",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\",
+      "BasePath": "_content/DuongThiAiNhi_2122110524",
+      "RelativePath": "uploads/categories/e8b50c0f-38bb-43b0-adc1-610b8e9d73a1_iphone3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "03yoqgtfpk",
+      "Integrity": "dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\categories\\e8b50c0f-38bb-43b0-adc1-610b8e9d73a1_iphone3.jpg"
+    },
+    {
+      "Identity": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\products\\5206c0a8-db52-45ac-a81b-c7bb4355308d_iphone4.jpg",
+      "SourceId": "DuongThiAiNhi_2122110524",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\",
+      "BasePath": "_content/DuongThiAiNhi_2122110524",
+      "RelativePath": "uploads/products/5206c0a8-db52-45ac-a81b-c7bb4355308d_iphone4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u9yk3p7igm",
+      "Integrity": "fj4Ilu3q+YqQxsvx8NCP+nUuGUMo9xtspcipLoLu5yM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\5206c0a8-db52-45ac-a81b-c7bb4355308d_iphone4.jpg"
+    },
+    {
+      "Identity": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\products\\ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939.png",
+      "SourceId": "DuongThiAiNhi_2122110524",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\",
+      "BasePath": "_content/DuongThiAiNhi_2122110524",
+      "RelativePath": "uploads/products/ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vh7o83m62o",
+      "Integrity": "DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/avatars/10b821a8-8979-4761-a223-a4c089b43deb_Screenshot 2025-04-09 135102.cwo4asyzvb.png",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\10b821a8-8979-4761-a223-a4c089b43deb_Screenshot 2025-04-09 135102.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:57:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cwo4asyzvb"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/avatars/10b821a8-8979-4761-a223-a4c089b43deb_Screenshot 2025-04-09 135102.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/10b821a8-8979-4761-a223-a4c089b43deb_Screenshot 2025-04-09 135102.png",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\10b821a8-8979-4761-a223-a4c089b43deb_Screenshot 2025-04-09 135102.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:57:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/39105d5a-4159-4c12-807e-b2682f5b1aa3_Screenshot 2025-04-09 135102.cwo4asyzvb.png",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\39105d5a-4159-4c12-807e-b2682f5b1aa3_Screenshot 2025-04-09 135102.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 23:08:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cwo4asyzvb"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/avatars/39105d5a-4159-4c12-807e-b2682f5b1aa3_Screenshot 2025-04-09 135102.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/39105d5a-4159-4c12-807e-b2682f5b1aa3_Screenshot 2025-04-09 135102.png",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\39105d5a-4159-4c12-807e-b2682f5b1aa3_Screenshot 2025-04-09 135102.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 23:08:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/48253823-478d-4e49-8618-d802a2a75ccc_Screenshot 2025-04-09 135102.cwo4asyzvb.png",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\48253823-478d-4e49-8618-d802a2a75ccc_Screenshot 2025-04-09 135102.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 23:06:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cwo4asyzvb"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/avatars/48253823-478d-4e49-8618-d802a2a75ccc_Screenshot 2025-04-09 135102.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/48253823-478d-4e49-8618-d802a2a75ccc_Screenshot 2025-04-09 135102.png",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\48253823-478d-4e49-8618-d802a2a75ccc_Screenshot 2025-04-09 135102.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 23:06:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/68f56421-7364-4f44-b568-c6ebf01fa9f3_iphone3.03yoqgtfpk.jpg",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\68f56421-7364-4f44-b568-c6ebf01fa9f3_iphone3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 08:13:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "03yoqgtfpk"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/avatars/68f56421-7364-4f44-b568-c6ebf01fa9f3_iphone3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/68f56421-7364-4f44-b568-c6ebf01fa9f3_iphone3.jpg",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\68f56421-7364-4f44-b568-c6ebf01fa9f3_iphone3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 08:13:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939.png",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 21:43:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939.vh7o83m62o.png",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 21:43:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vh7o83m62o"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/avatars/88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/ed71e770-23ae-4b34-8712-d530919d0b25_iphone3.03yoqgtfpk.jpg",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\ed71e770-23ae-4b34-8712-d530919d0b25_iphone3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 08:22:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "03yoqgtfpk"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/avatars/ed71e770-23ae-4b34-8712-d530919d0b25_iphone3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/ed71e770-23ae-4b34-8712-d530919d0b25_iphone3.jpg",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\ed71e770-23ae-4b34-8712-d530919d0b25_iphone3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 08:22:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.2bs9doqdan.png",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\categories\\6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94456"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jmRaAZmcYz0r/8uj7UbzriWDtHlxRDmmWy3v4Ix+07s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 21:16:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2bs9doqdan"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jmRaAZmcYz0r/8uj7UbzriWDtHlxRDmmWy3v4Ix+07s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.png",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\categories\\6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94456"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jmRaAZmcYz0r/8uj7UbzriWDtHlxRDmmWy3v4Ix+07s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 21:16:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jmRaAZmcYz0r/8uj7UbzriWDtHlxRDmmWy3v4Ix+07s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/e8b50c0f-38bb-43b0-adc1-610b8e9d73a1_iphone3.03yoqgtfpk.jpg",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\categories\\e8b50c0f-38bb-43b0-adc1-610b8e9d73a1_iphone3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 08:07:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "03yoqgtfpk"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/e8b50c0f-38bb-43b0-adc1-610b8e9d73a1_iphone3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/e8b50c0f-38bb-43b0-adc1-610b8e9d73a1_iphone3.jpg",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\categories\\e8b50c0f-38bb-43b0-adc1-610b8e9d73a1_iphone3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 08:07:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/5206c0a8-db52-45ac-a81b-c7bb4355308d_iphone4.jpg",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\products\\5206c0a8-db52-45ac-a81b-c7bb4355308d_iphone4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fj4Ilu3q+YqQxsvx8NCP+nUuGUMo9xtspcipLoLu5yM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 08:09:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fj4Ilu3q+YqQxsvx8NCP+nUuGUMo9xtspcipLoLu5yM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/5206c0a8-db52-45ac-a81b-c7bb4355308d_iphone4.u9yk3p7igm.jpg",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\products\\5206c0a8-db52-45ac-a81b-c7bb4355308d_iphone4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fj4Ilu3q+YqQxsvx8NCP+nUuGUMo9xtspcipLoLu5yM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 08:09:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u9yk3p7igm"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/5206c0a8-db52-45ac-a81b-c7bb4355308d_iphone4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fj4Ilu3q+YqQxsvx8NCP+nUuGUMo9xtspcipLoLu5yM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939.png",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\products\\ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 03:39:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939.vh7o83m62o.png",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\products\\ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 03:39:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vh7o83m62o"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo="
+        }
+      ]
+    }
+  ]
 }

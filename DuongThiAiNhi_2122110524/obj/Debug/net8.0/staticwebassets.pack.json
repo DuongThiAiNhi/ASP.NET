@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\10b821a8-8979-4761-a223-a4c089b43deb_Screenshot 2025-04-09 135102.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\10b821a8-8979-4761-a223-a4c089b43deb_Screenshot 2025-04-09 135102.png"
+    },
+    {
+      "Id": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\39105d5a-4159-4c12-807e-b2682f5b1aa3_Screenshot 2025-04-09 135102.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\39105d5a-4159-4c12-807e-b2682f5b1aa3_Screenshot 2025-04-09 135102.png"
+    },
+    {
+      "Id": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\48253823-478d-4e49-8618-d802a2a75ccc_Screenshot 2025-04-09 135102.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\48253823-478d-4e49-8618-d802a2a75ccc_Screenshot 2025-04-09 135102.png"
+    },
+    {
+      "Id": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\68f56421-7364-4f44-b568-c6ebf01fa9f3_iphone3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\68f56421-7364-4f44-b568-c6ebf01fa9f3_iphone3.jpg"
+    },
+    {
+      "Id": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939.png"
+    },
+    {
+      "Id": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\avatars\\ed71e770-23ae-4b34-8712-d530919d0b25_iphone3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\ed71e770-23ae-4b34-8712-d530919d0b25_iphone3.jpg"
+    },
+    {
+      "Id": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\categories\\6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.png",
+      "PackagePath": "staticwebassets\\uploads\\categories\\6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.png"
+    },
+    {
+      "Id": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\categories\\e8b50c0f-38bb-43b0-adc1-610b8e9d73a1_iphone3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\categories\\e8b50c0f-38bb-43b0-adc1-610b8e9d73a1_iphone3.jpg"
+    },
+    {
+      "Id": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\products\\5206c0a8-db52-45ac-a81b-c7bb4355308d_iphone4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\5206c0a8-db52-45ac-a81b-c7bb4355308d_iphone4.jpg"
+    },
+    {
+      "Id": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\products\\ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DuongThiAiNhi_2122110524.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DuongThiAiNhi_2122110524.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DuongThiAiNhi_2122110524.props",
+      "PackagePath": "build\\DuongThiAiNhi_2122110524.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DuongThiAiNhi_2122110524.props",
+      "PackagePath": "buildMultiTargeting\\DuongThiAiNhi_2122110524.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DuongThiAiNhi_2122110524.props",
+      "PackagePath": "buildTransitive\\DuongThiAiNhi_2122110524.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

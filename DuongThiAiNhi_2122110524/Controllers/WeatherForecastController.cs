@@ -1,3 +1,4 @@
+using DuongThiAiNhi_2122110524;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DuongThiAiNhi_2122110524.Controllers
