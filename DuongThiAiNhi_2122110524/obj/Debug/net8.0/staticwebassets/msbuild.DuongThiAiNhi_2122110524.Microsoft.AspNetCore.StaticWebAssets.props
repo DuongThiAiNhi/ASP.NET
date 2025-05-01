@@ -126,6 +126,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\a7f605d0-750e-48ef-91d1-78138333810b_iphone3.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DuongThiAiNhi_2122110524</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DuongThiAiNhi_2122110524</BasePath>
+      <RelativePath>uploads/categories/a7f605d0-750e-48ef-91d1-78138333810b_iphone3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>03yoqgtfpk</Fingerprint>
+      <Integrity>dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\a7f605d0-750e-48ef-91d1-78138333810b_iphone3.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\e8b50c0f-38bb-43b0-adc1-610b8e9d73a1_iphone3.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>DuongThiAiNhi_2122110524</SourceId>

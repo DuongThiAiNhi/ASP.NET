@@ -1,6 +1,6 @@
 ﻿using DuongThiAiNhi_2122110524.Model;
 using Microsoft.EntityFrameworkCore;
-
+using Microsoft.Extensions.Hosting;
 namespace DuongThiAiNhi_2122110524.Data
 {
     public class AppDbContext : DbContext
@@ -15,7 +15,9 @@ namespace DuongThiAiNhi_2122110524.Data
         public DbSet<Brand> Brands { get; set; }
         public DbSet<Banner> Banners { get; set; }
         public DbSet<Menu> Menus { get; set; }
-
+        public DbSet<Contact> Contacts { get; set; }
+        public DbSet<Post> Posts { get; set; }
+        public DbSet<Topic> Topics { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             // Cấu hình quan hệ

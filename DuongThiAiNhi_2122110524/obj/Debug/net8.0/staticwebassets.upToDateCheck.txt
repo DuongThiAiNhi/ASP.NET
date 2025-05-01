@@ -5,6 +5,7 @@ wwwroot\uploads\avatars\68f56421-7364-4f44-b568-c6ebf01fa9f3_iphone3.jpg
 wwwroot\uploads\avatars\88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939.png
 wwwroot\uploads\avatars\ed71e770-23ae-4b34-8712-d530919d0b25_iphone3.jpg
 wwwroot\uploads\categories\6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.png
+wwwroot\uploads\categories\a7f605d0-750e-48ef-91d1-78138333810b_iphone3.jpg
 wwwroot\uploads\categories\e8b50c0f-38bb-43b0-adc1-610b8e9d73a1_iphone3.jpg
 wwwroot\uploads\products\5206c0a8-db52-45ac-a81b-c7bb4355308d_iphone4.jpg
 wwwroot\uploads\products\ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939.png

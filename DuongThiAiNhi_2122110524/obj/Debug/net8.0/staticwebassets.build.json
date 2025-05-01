@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FdQHXXyGBQq0GxGas3GLH0zE2j4De1VuDR8fY2ANs04=",
+  "Hash": "4h1erIN1QVYkEtTW2JpsHNJxLSIf/9HjGTJ7q4gtByI=",
   "Source": "DuongThiAiNhi_2122110524",
   "BasePath": "_content/DuongThiAiNhi_2122110524",
   "Mode": "Default",
@@ -162,6 +162,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\categories\\6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.png"
+    },
+    {
+      "Identity": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\categories\\a7f605d0-750e-48ef-91d1-78138333810b_iphone3.jpg",
+      "SourceId": "DuongThiAiNhi_2122110524",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\",
+      "BasePath": "_content/DuongThiAiNhi_2122110524",
+      "RelativePath": "uploads/categories/a7f605d0-750e-48ef-91d1-78138333810b_iphone3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "03yoqgtfpk",
+      "Integrity": "dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\categories\\a7f605d0-750e-48ef-91d1-78138333810b_iphone3.jpg"
     },
     {
       "Identity": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\categories\\e8b50c0f-38bb-43b0-adc1-610b8e9d73a1_iphone3.jpg",
@@ -799,6 +820,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-jmRaAZmcYz0r/8uj7UbzriWDtHlxRDmmWy3v4Ix+07s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/a7f605d0-750e-48ef-91d1-78138333810b_iphone3.03yoqgtfpk.jpg",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\categories\\a7f605d0-750e-48ef-91d1-78138333810b_iphone3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 11:09:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "03yoqgtfpk"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/a7f605d0-750e-48ef-91d1-78138333810b_iphone3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/a7f605d0-750e-48ef-91d1-78138333810b_iphone3.jpg",
+      "AssetFile": "D:\\DuongThiAiNhi_2122110524\\DuongThiAiNhi_2122110524\\wwwroot\\uploads\\categories\\a7f605d0-750e-48ef-91d1-78138333810b_iphone3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 11:09:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dBMWWrq1Jda99ufbA32wMYHO8KBoRZa/7CfN3vZNtaM="
         }
       ]
     },

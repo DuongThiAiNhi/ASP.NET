@@ -49,7 +49,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("ReactAdminPolicy", builder =>
     {
-        builder.WithOrigins("http://localhost:5174") // Đổi thành URL frontend của bạn
+        builder.WithOrigins("http://localhost:5173") // Đổi thành URL frontend của bạn
                .AllowAnyMethod()
                .AllowAnyHeader()
                .AllowCredentials()
